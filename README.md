@@ -44,10 +44,17 @@
 
 ---
 
+### 🌐 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikas&layout=compact&theme=radical" alt="Most used languages" />
+</p>
+
+---
+
 ### 🎯 Quote of the Day
 > *“Data is the new oil, but insight is the spark.”*
 
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/deepika-s-7494a7258/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/deepika-s-7494a7258/)
