@@ -6,7 +6,7 @@
 - 🔭 I’m currently diving into **Data Science & Machine Learning**
 - 🌱 Exploring tools like **Pandas, NumPy, Scikit-learn, Streamlit**, and more
 - ✨ I also work with **Replo**, building high-converting landing pages on **Shopify**
-- ⚙️ Experienced in **PageFly**, Shopify metadata, dynamic components, and custom HTML/CSS/JS
+- ⚙️ Experienced in Shopify metadata, dynamic components, and custom HTML/CSS/JS
 - 💬 Ask me about **Shopify dev, AI-powered tools, or design-to-code workflows**
 - 📫 How to reach me: **deepika.shantappa@gmail.com**
 - ⚡ Fun fact: *I mix creative design with structured logic for everything I build*
