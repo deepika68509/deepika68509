@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepika</h1>
 <h3 align="center">👩‍💻 Developer | 🎨 Designer | 📊 Data Enthusiast</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif">
 
 - 🔭 I’m currently diving into **Data Science & Machine Learning**
 - 🌱 Exploring tools like **Pandas, NumPy, Scikit-learn, Streamlit**, and more
