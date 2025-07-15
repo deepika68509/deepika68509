@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepika</h1>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepika68509.deepika68509" alt="profile views" />
+</p>
 <h3 align="center">👩‍💻 Developer | 🎨 Designer | 📊 Data Enthusiast</h3>
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🔭 I’m currently diving into **Data Science & Machine Learning**
 - 🌱 Exploring tools like **Pandas, NumPy, Scikit-learn, Streamlit**, and more
